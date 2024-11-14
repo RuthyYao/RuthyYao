@@ -1,6 +1,7 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![image](https://github.com/user-attachments/assets/8bbe041d-82ba-412e-8336-fe9e2d926090)
+![image](https://github.com/user-attachments/assets/3a10531e-08c1-483b-a58d-052a98c7cfa2)
+
 
 
 Hello, I'm Ruthy. Data Analyst with expertise in data wrangling, exploratory data analysis, business intelligence and machine learning. 
