@@ -23,7 +23,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Ruthy
 
 - Math: Linear Algebra, Statistics (Hypothesis Testing, AB Testing, Central Limit Theorem, Distributions)
 
-- Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest
+- Machine Learning: Linear Regression, Logistic Regression, Decision Trees, Random Forest, K-Means Cluster
 
 ### 👋🏻 Connect with Me
 
