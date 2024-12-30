@@ -13,7 +13,7 @@ Hello, I'm Ruthy. Data Analyst with expertise in data wrangling, exploratory dat
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/RuthyYao/portfolio-guide).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/RuthyYao/portfolio-guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
